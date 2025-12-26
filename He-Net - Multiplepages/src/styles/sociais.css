@@ -1,0 +1,120 @@
+
+.sociais{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  /* Centraliza verticalmente o conteúdo dentro da seção */
+    align-items: center;      /* Centraliza horizontalmente */
+    gap: 6rem;
+    color: var(--tertiary-color);
+    font-family: var(--fonte);
+    margin: 3rem;
+}
+
+.sociais__titulo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.65rem;
+    font-weight: 700;
+}
+
+.sociais__titulo--laranja{
+    color: var(--secondary-color);
+    font-family: var(--fonte);
+}
+
+
+.sociais__lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6rem;
+}
+
+/* Imagens dos ícones */
+.sociais__lista img{
+    width: 5rem;
+    height: 5rem;
+}
+
+
+.sociais__icones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   /* Centraliza círculo e texto no mesmo eixo */
+    gap: 1rem;             /* Espaço entre o círculo e o nome da rede */
+}
+
+
+.sociais__icones h4{
+    font-size: 1.75rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.sociais__icones--branco, 
+.sociais__icones--laranja{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5rem;
+    height: 12.5rem;  
+    border-radius: 50%;
+}
+
+
+.sociais__icones--branco{
+    background-color: var(--tertiary-color);
+}
+
+.sociais__icones--laranja{
+    background-color: var(--secondary-color);
+}
+
+@media screen and (max-width: 1560px) {
+    .sociais {
+        text-align: center;
+    }
+
+    .sociais__titulo--laranja {
+        display: block;
+    }
+
+    .sociais__lista {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .sociais {
+        gap: 2rem;
+        margin: 1.4rem;
+    }
+
+    .sociais__titulo {
+        font-size: 1.1rem;
+    }
+
+    .sociais__titulo--laranja {
+        display: contents;
+    }
+
+    .sociais__lista{
+        gap: 2rem;
+    }
+
+    .sociais__lista h4 {
+        font-size: 1rem;
+    }
+
+    .sociais__icones--branco, .sociais__icones--laranja {
+        max-width: 8rem;
+        max-height: 8rem;
+    }
+    
+    .sociais__lista img {
+        max-height: 5rem;
+        max-width: 5rem;
+    }
+}
