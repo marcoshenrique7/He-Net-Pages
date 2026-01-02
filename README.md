@@ -65,7 +65,7 @@ Abaixo estão algumas capturas de tela dos principais componentes do site desenv
 
 | Explicação dos Planos                |
 | ----------------------------------- |
-| <img src="/prints/palnos2.png" /> |
+| <img src="/prints/planos2.png" /> |
 
 <br/>
 
