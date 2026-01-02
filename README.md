@@ -73,7 +73,7 @@ Abaixo estão algumas capturas de tela dos principais componentes do site desenv
 | -------------------------------------- |
 | <img src="/prints/vagas.png" /> |
 
-<br/>|
+<br/>
 
 ## 🛠️ Tecnologias Utilizadas
 
