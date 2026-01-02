@@ -57,27 +57,23 @@ Abaixo estão algumas capturas de tela dos principais componentes do site desenv
 
 <br/>
 
-| História da Empresa                  |
+| Sobre a Empresa                  |
 | ------------------------------------ |
-| <img src="/prints/historia.png" /> |
+| <img src="/prints/sobre.png" /> |
 
 <br/>
 
-| Atributos e Valores                 |
+| Explicação dos Planos                |
 | ----------------------------------- |
-| <img src="/prints/atributos.png" /> |
+| <img src="/prints/palnos2.png" /> |
 
 <br/>
 
-| Informações de Contato                 |
+| Sobre as Vagas                          |
 | -------------------------------------- |
-| <img src="/prints/atendimento.png" /> |
+| <img src="/prints/vagas.png" /> |
 
-<br/>
-
-| Empresas que Apoiam                    |
-| -------------------------------------- |
-| <img src="/prints/icones-empresas.png" /> |
+<br/>|
 
 ## 🛠️ Tecnologias Utilizadas
 
