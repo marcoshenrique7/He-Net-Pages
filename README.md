@@ -47,37 +47,37 @@ Abaixo estão algumas capturas de tela dos principais componentes do site desenv
 
 | Planos de Internet                     |
 | -------------------------------------- |
-| <img src="../src/assets/prints/planos.png" /> |
+| <img src="/prints/planos.png" /> |
 
 <br/>
 
 | Sobre o App                       |
 | --------------------------------- |
-| <img src="../src/assets/prints/app.png" /> |
+| <img src="/prints/app.png" /> |
 
 <br/>
 
 | História da Empresa                  |
 | ------------------------------------ |
-| <img src="../src/assets/prints/historia.png" /> |
+| <img src="/prints/historia.png" /> |
 
 <br/>
 
 | Atributos e Valores                 |
 | ----------------------------------- |
-| <img src="../src/assets/prints/atributos.png" /> |
+| <img src="/prints/atributos.png" /> |
 
 <br/>
 
 | Informações de Contato                 |
 | -------------------------------------- |
-| <img src="../src/assets/prints/atendimento.png" /> |
+| <img src="/prints/atendimento.png" /> |
 
 <br/>
 
 | Empresas que Apoiam                    |
 | -------------------------------------- |
-| <img src="../src/assets/prints/icones-empresas.png" /> |
+| <img src="/prints/icones-empresas.png" /> |
 
 ## 🛠️ Tecnologias Utilizadas
 
