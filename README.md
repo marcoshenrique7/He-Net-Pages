@@ -31,7 +31,8 @@ Além do código, este projeto é um exercício prático de **User Experience (U
 
 O site está hospedado e ativo através do Vercel. Pode-se testar a navegação clicando no link abaixo:
 
-👉 **[He-Net](https://he-net.vercel.app/)**
+👉 **[He-Net - Ladingpages](https://he-net-landingpage.vercel.app/)**
+👉 **[He-Net - Multiplepages](https://he-net-multiplepages.vercel.app/)**
 
 ## 🎨 Design e Metodologia
 
